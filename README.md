@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mzgubic/dRdemo/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mzgubic/dRdemo/master?filepath=dR_visualisation.ipynb)
 
 # dR variable visualisation
 
