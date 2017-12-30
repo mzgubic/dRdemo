@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mzgubic/dRdemo/master)
+
 # dR variable visualisation
 
 ATLAS, CMS, and probably many other physics experiments, use a bespoke coordinate system to describe the detector and kinematics, which is designed for physics in the high energy regime ruled by the laws of special relativity.
